@@ -13,10 +13,10 @@ Coming Soon
 | Feature / Spec         | **V1** | **V2** |
 |------------------------|--------|--------|
 | Speed / Performance     | 60 UNC, basic execution | Optimized, faster execution |
-| Core Engine             | CXAPI  | Upgraded engine (details…) |
+| Core Engine             | CXAPI  | MoonApi (free version) |
 | Script Hub              |  Not available |  Available |
-| Monaco Editor           |  Not available |  Integrated |
-| Settings / Config       | Minimal | Expanded, customizable settings |
-| Key System              |  Included |  Removed |
-| Extra Features          | Basic executor functionality | Added ScriptHub, Monaco, better UI, more options |
-| Release Status          | Released | Coming Soon |
+| Monaco Editor           |  Not available |  Integrated (simple) |
+| Settings / Config       | Minimal | More settings |
+| Key System              | None |  None |
+| Extra Features          |Small scripts | Added ScriptHub, Monaco , etc |
+| Release Status          |Outdated | Coming Soon |
